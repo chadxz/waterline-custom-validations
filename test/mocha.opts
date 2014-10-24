@@ -2,5 +2,4 @@
 --ui bdd
 --reporter spec
 --check-leaks
---globals sails,FILE_PARSER_LOGGER_ENABLED
 --timeout 8000

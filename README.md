@@ -42,4 +42,4 @@ To contribute, see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## license
 
-MIT
+[MIT](LICENSE.txt)
