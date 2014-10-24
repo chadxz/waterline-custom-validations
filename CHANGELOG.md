@@ -1,7 +1,9 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## 1.0.1 - 2014-10-24
+### Added
+ - git repo to package.json for easier discovery via npm
 
 ## 1.0.0 - 2014-10-24
 ### Added
